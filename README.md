@@ -1,7 +1,10 @@
 ### Olá !! Eu sou a Sarah Gabrielly Barros
 
-### Estudante de Engenharia de Software apaixonada e em busca de desafios, com foco em desenvolvimento front-end e back-end. Atualmente, estou aprimorando minhas habilidades em tecnologias front-end, incluindo JavaScript, HTML, CSS e React Native, através de um curso especializado. Paralelamente, estou expandindo meu conhecimento em Python, Inteligência Artificial e desenvolvimento de back-end, preparando-me para contribuir em todas as etapas do ciclo de desenvolvimento de software.
-###
+### Estudante de Engenharia de Software apaixonada e em busca de desafios, com foco em desenvolvimento front-end e back-end. 
+
+
+### Linguagens que estou estudando: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
