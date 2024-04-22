@@ -1,5 +1,6 @@
 ### Olá !! Eu sou a Sarah Gabrielly Barros
-
+### Sou estudante de Engenharia de Software apaixonada e em busca de desafios, com foco em desenvolvimento front-end e back-end. Atualmente, estou aprimorando minhas habilidades em tecnologias front-end, incluindo JavaScript, HTML, CSS e React Native, através de um curso especializado. Paralelamente, estou expandindo meu conhecimento em Python, Inteligência Artificial e desenvolvimento de back-end, preparando-me para contribuir em todas as etapas do ciclo de desenvolvimento de software.
+###
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,7 +10,7 @@
 <br>
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sarahgbarros@hotymail"><img src="" target="_blank"></a>
+  <a href = "mailto:sarahgbarros@hotymail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-barros-63379826b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
