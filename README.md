@@ -1,6 +1,6 @@
 ### Olá !! Eu sou a Sarah Gabrielly Barros 🖐️
 
-### Estudante de Engenharia de Software apaixonada e em busca de desafios, com foco em desenvolvimento front-end e back-end. 
+### Estudante de Engenharia de Software e estagiária backend. 
 
 
 ### Linguagens que estou estudando: 
