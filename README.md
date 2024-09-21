@@ -1,4 +1,4 @@
-### Olá !! Eu sou a Sarah Gabrielly Barros 🖐️
+### Olá !! Eu sou a Sarah🖐️
 
 ### Estudante de Engenharia de Software e estagiária backend. 
 
