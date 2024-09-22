@@ -1,19 +1,35 @@
-### Olá !! Eu sou a Sarah🖐️
+### ✨ Hi there, I'm Sarah! ✨
 
-### Estudante de Engenharia de Software e estagiária backend. 
+- Software Engineering Student.
+- Intern at Sidia
 
 
-### Linguagens que estou estudando: 
+### Languages 💻:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" scr="https://icongr.am/devicon/django-plain.svg?size=128&color=currentColor">
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img align="center" alt="Postgree" height="30" width="40" scr="[https://icongr.am/devicon/django-plain.svg?size=128&color=currentColor](https://icongr.am/devicon/postgresql-original-wordmark.svg?    
+       size=128&color=currentColor)">
+  <img align="center" alt="MongoDb" height="30" width="40" scr="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
 </div>
 <br>
 <div> 
   <a href = "mailto:sarahgbarros@hotymail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-barros-63379826b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+</div>
+
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahgbarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgbarros&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
 </div>
