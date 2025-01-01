@@ -1,4 +1,4 @@
-### ✨ Hi there, I'm Sarah! ✨
+### ✨ Hi there, I'm Gabi! ✨
 
 - Software Engineering Student.
 - Intern at Sidia
